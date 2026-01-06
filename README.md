@@ -321,10 +321,7 @@ seaborn>=0.11.0
 
 ---
 
-## ⚖️ **License & Medical Disclaimer**
-
-### **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## ⚖️ **Medical Disclaimer**
 
 ### **⚠️ Medical Disclaimer**
 This system is designed for **research and educational purposes only**. It is **NOT a substitute for professional medical advice, diagnosis, or treatment**.
@@ -337,11 +334,6 @@ This system is designed for **research and educational purposes only**. It is **
 ---
 
 ## 📞 **Support & Contact**
-
-### **Getting Help**
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/diabetes-ml-project/issues)
-- 📧 **Email**: your.email@example.com
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/diabetes-ml-project/discussions)
 
 ### **Citation**
 If you use this work in research, please cite:
