@@ -71,7 +71,6 @@ diabetes-ml-project/
 │   └── graphs/                  # Generated visualizations
 └── 📚 Documentation
     ├── USAGE_GUIDE.md           # Detailed usage instructions
-    ├── PRESENTATION_DEMO.md     # Live demo guide
     └── README.md                # This file
 ```
 
@@ -260,7 +259,6 @@ After running `test_prediction.py`, check that:
 ## 📚 **Documentation**
 
 - 📖 **[USAGE_GUIDE.md](USAGE_GUIDE.md)** - Comprehensive usage instructions
-- 🎤 **[PRESENTATION_DEMO.md](PRESENTATION_DEMO.md)** - Live demonstration guide
 - 🔧 **[requirements.txt](requirements.txt)** - Python dependencies
 - 🚫 **[.gitignore](.gitignore)** - Git exclusion rules
 
