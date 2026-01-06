@@ -333,9 +333,7 @@ This system is designed for **research and educational purposes only**. It is **
 
 ---
 
-## 📞 **Support & Contact**
-
-### **Citation**
+## **Citation**
 If you use this work in research, please cite:
 ```bibtex
 @software{diabetes_ml_prediction,
@@ -360,10 +358,3 @@ If you use this work in research, please cite:
 <div align="center">
 
 **Made with ❤️ for better healthcare through AI**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/diabetes-ml-project.svg?style=social)](https://github.com/yourusername/diabetes-ml-project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/diabetes-ml-project.svg?style=social)](https://github.com/yourusername/diabetes-ml-project/network)
-
-[⭐ Star this repository](https://github.com/yourusername/diabetes-ml-project) | [🍴 Fork it](https://github.com/yourusername/diabetes-ml-project/fork) | [📝 Report Issues](https://github.com/yourusername/diabetes-ml-project/issues)
-
-</div>
